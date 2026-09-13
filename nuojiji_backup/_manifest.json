@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1789320390041,
+  "timestamp": 1789320392583,
   "appVersion": "6.9.76 (2026.09.13)",
   "tables": [
     "characters",
@@ -187,5 +187,11 @@
     "deliveryOrders": true,
     "deliveryData": true
   },
-  "inProgress": true
+  "skippedTables": [
+    "globalSettings",
+    "messages",
+    "summaryEntries",
+    "couplesData"
+  ],
+  "inProgress": false
 }
