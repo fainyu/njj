@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1790098423458,
+  "timestamp": 1790098429752,
   "appVersion": "6.9.82 (2026.09.22)",
   "tables": [
     "characters",
@@ -203,7 +203,9 @@
     "jiliPosts": true,
     "jiliDMs": true,
     "shareLinkMeta": true,
-    "coReadTranslations": true
+    "coReadTranslations": true,
+    "studyTalks": true,
+    "studyOutlines": true
   },
   "inProgress": true
 }
