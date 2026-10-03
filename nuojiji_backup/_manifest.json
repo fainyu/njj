@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791018979578,
+  "timestamp": 1791018985629,
   "appVersion": "6.9.90 (2026.10.03)",
   "tables": [
     "characters",
@@ -218,7 +218,8 @@
     "studyExams": true,
     "deliveryBiz": true,
     "forumItems": true,
-    "xinshengRounds": true
+    "xinshengRounds": true,
+    "jiliDMMessages": true
   },
   "inProgress": true
 }
