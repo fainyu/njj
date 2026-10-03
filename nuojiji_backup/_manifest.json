@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791017495051,
+  "timestamp": 1791017501754,
   "appVersion": "6.9.90 (2026.10.03)",
   "tables": [
     "characters",
@@ -147,7 +147,6 @@
     "groupSettings": true,
     "userLinks": true,
     "userMessages": true,
-    "ttsAudio": true,
     "forumData": true,
     "calendarData": true,
     "groupChats": true,
@@ -217,7 +216,8 @@
     "studyQuizzes": true,
     "studyGoals": true,
     "studyExams": true,
-    "deliveryBiz": true
+    "deliveryBiz": true,
+    "forumItems": true
   },
   "inProgress": true
 }
