@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791019254778,
+  "timestamp": 1791019260468,
   "appVersion": "6.9.90 (2026.10.03)",
   "tables": [
     "characters",
@@ -222,7 +222,8 @@
     "xinshengRounds": true,
     "jiliDMMessages": true,
     "coReadComments": true,
-    "studyCards": true
+    "studyCards": true,
+    "assets": true
   },
   "inProgress": true
 }
