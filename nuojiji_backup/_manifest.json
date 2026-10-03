@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791019040314,
+  "timestamp": 1791019041077,
   "appVersion": "6.9.90 (2026.10.03)",
   "tables": [
     "characters",
@@ -120,7 +120,7 @@
     "imageStore": 33,
     "thinkingStore": 5,
     "summaryEntries": 3,
-    "stickerStore": 15,
+    "stickerStore": 30,
     "ttsAudio": 45
   },
   "completedTables": {
@@ -218,7 +218,8 @@
     "studyExams": true,
     "deliveryBiz": true,
     "forumItems": true,
-    "xinshengRounds": true
+    "xinshengRounds": true,
+    "jiliDMMessages": true
   },
   "inProgress": true
 }
